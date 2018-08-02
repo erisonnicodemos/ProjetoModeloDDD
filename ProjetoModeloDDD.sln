@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{7E9E731F-9479-41C3-A063-00BD516FA35F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{8A5F1F5C-F82F-41D5-9AA1-E8AE7A0B8FF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{8E5773D0-140B-470B-8EBB-F0A8A915069A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{99135637-671C-49AA-BD34-163DAEC315A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - CrossCutting", "4.1 - CrossCutting", "{99356E0E-A144-4010-8750-97AA077A7F0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - Data", "4.2 - Data", "{0676A5CB-18F4-4D0E-87DA-67D7D9ED98F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.Domain", "ProjetoModeloDDD.Domain\ProjetoModeloDDD.Domain.csproj", "{5482EDA6-9B4E-4FDC-A481-87A0A52D769D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.Infra.Data", "ProjetoModeloDDD.Infra.Data\ProjetoModeloDDD.Infra.Data.csproj", "{DD47D8E6-291A-401E-BEF8-C3666A0147A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.Application", "ProjetoModeloDDD.Application\ProjetoModeloDDD.Application.csproj", "{D4336196-AC16-4C2C-8893-FEB1DB06C451}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{57446EFD-AA19-4CB7-9784-BA91E99AD549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.MVC", "ProjetoModeloDDD.MVC\ProjetoModeloDDD.MVC.csproj", "{0950B39B-E9D7-45D0-8DA1-ABFF848D0A1B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://erisonnicodemos.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj
+		SccProjectTopLevelParentUniqueName1 = ProjetoModeloDDD.sln
+		SccProjectName1 = ProjetoModeloDDD.Application
+		SccLocalPath1 = ProjetoModeloDDD.Application
+		SccProjectUniqueName2 = ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj
+		SccProjectTopLevelParentUniqueName2 = ProjetoModeloDDD.sln
+		SccProjectName2 = ProjetoModeloDDD.Domain
+		SccLocalPath2 = ProjetoModeloDDD.Domain
+		SccProjectUniqueName3 = ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj
+		SccProjectTopLevelParentUniqueName3 = ProjetoModeloDDD.sln
+		SccProjectName3 = ProjetoModeloDDD.Infra.Data
+		SccLocalPath3 = ProjetoModeloDDD.Infra.Data
+		SccProjectUniqueName4 = ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj
+		SccProjectTopLevelParentUniqueName4 = ProjetoModeloDDD.sln
+		SccProjectName4 = ProjetoModeloDDD.MVC
+		SccLocalPath4 = ProjetoModeloDDD.MVC
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5482EDA6-9B4E-4FDC-A481-87A0A52D769D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5482EDA6-9B4E-4FDC-A481-87A0A52D769D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5482EDA6-9B4E-4FDC-A481-87A0A52D769D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5482EDA6-9B4E-4FDC-A481-87A0A52D769D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD47D8E6-291A-401E-BEF8-C3666A0147A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD47D8E6-291A-401E-BEF8-C3666A0147A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD47D8E6-291A-401E-BEF8-C3666A0147A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD47D8E6-291A-401E-BEF8-C3666A0147A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4336196-AC16-4C2C-8893-FEB1DB06C451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4336196-AC16-4C2C-8893-FEB1DB06C451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4336196-AC16-4C2C-8893-FEB1DB06C451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4336196-AC16-4C2C-8893-FEB1DB06C451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0950B39B-E9D7-45D0-8DA1-ABFF848D0A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0950B39B-E9D7-45D0-8DA1-ABFF848D0A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0950B39B-E9D7-45D0-8DA1-ABFF848D0A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0950B39B-E9D7-45D0-8DA1-ABFF848D0A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{99356E0E-A144-4010-8750-97AA077A7F0A} = {99135637-671C-49AA-BD34-163DAEC315A0}
+		{0676A5CB-18F4-4D0E-87DA-67D7D9ED98F2} = {99135637-671C-49AA-BD34-163DAEC315A0}
+		{5482EDA6-9B4E-4FDC-A481-87A0A52D769D} = {8E5773D0-140B-470B-8EBB-F0A8A915069A}
+		{DD47D8E6-291A-401E-BEF8-C3666A0147A1} = {0676A5CB-18F4-4D0E-87DA-67D7D9ED98F2}
+		{D4336196-AC16-4C2C-8893-FEB1DB06C451} = {8A5F1F5C-F82F-41D5-9AA1-E8AE7A0B8FF8}
+		{0950B39B-E9D7-45D0-8DA1-ABFF848D0A1B} = {7E9E731F-9479-41C3-A063-00BD516FA35F}
+	EndGlobalSection
+EndGlobal

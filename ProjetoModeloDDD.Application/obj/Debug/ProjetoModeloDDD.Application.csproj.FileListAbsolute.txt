@@ -1,0 +1,7 @@
+C:\Users\101556\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\101556\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\101556\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\101556\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\101556\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache
+C:\Users\101556\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\101556\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
